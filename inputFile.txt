@@ -1,3 +1,6 @@
+# でたらめリスト
+# ランダム生成の個人情報リスト
+
 小堀 恵望子 こほり えみこ kohori_emiko@example.com  女
 森谷 亜希 もりや あき moriya_aki@example.com  女
 大西 仁 おおにし じん oonishi_jin@example.com 男
